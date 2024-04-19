@@ -1,7 +1,7 @@
 # SnowSQL config
 
 [connections.dev]
-accountname = FHQYQJR.KU46000
+accountname = https://fhqyqjr-ku46000.snowflakecomputing.com
 username = LDAUDE
 password = Laura1234
 rolename = HOL_ROLE
