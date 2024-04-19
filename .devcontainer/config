@@ -2,7 +2,7 @@
 
 [connections.dev]
 accountname = dr50715.eu-west-3.aws.snowflakecomputing.com
-username = LDAUDE
+username = laura.daude@somfy.com
 password = Laura1234
 rolename = HOL_ROLE
 warehousename = HOL_WH
