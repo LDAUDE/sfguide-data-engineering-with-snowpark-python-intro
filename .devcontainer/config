@@ -1,7 +1,7 @@
 # SnowSQL config
 
 [connections.dev]
-accountname = ku46000.eu-west-3
+accountname = "KU46000"
 username = laura.daude@somfy.com
 password = Laura1234
 rolename = HOL_ROLE
