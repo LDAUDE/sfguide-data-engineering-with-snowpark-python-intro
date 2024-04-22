@@ -2,8 +2,8 @@
 
 [connections.dev]
 accountname = ku46000
-username = LDAUDE
-password = Laura1234
+username = 
+password = 
 rolename = HOL_ROLE
 warehousename = HOL_WH
 dbname = HOL_DB
